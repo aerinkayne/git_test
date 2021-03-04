@@ -1,0 +1,1 @@
+This is a project created through The Odin Project's 'Foundations' introduction.  
